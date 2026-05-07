@@ -1,10 +1,5 @@
 # 🔫 The Edge Annihilator 3000
-### *Deadpool Edition — v6.0*
-
-> *"I use Chrome at home."*
-> — Every Microsoft Employee, Probably
-
----
+###  v6.0*
 
 ## What Is This
 
